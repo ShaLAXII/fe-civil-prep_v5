@@ -1,0 +1,126 @@
+question_id,source,pdf_page,action,finding,previous_status,new_status
+2,Learnova,10,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer C.,source-transcribed,manually-checked
+22,Learnova,16,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,source-transcribed,manually-checked
+25,Learnova,17,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer B.,needs-review,manually-checked
+26,Learnova,17,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer C.,needs-review,manually-checked
+27,Learnova,17,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer C.,needs-review,manually-checked
+30,Learnova,18,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,needs-review,manually-checked
+33,Learnova,19,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer D.,needs-review,manually-checked
+41,Learnova,21,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,source-transcribed,manually-checked
+42,Learnova,21,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer B.,needs-review,manually-checked
+43,Learnova,22,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,source-transcribed,manually-checked
+44,Learnova,22,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer D.,source-transcribed,manually-checked
+47,Learnova,23,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer B.,source-transcribed,manually-checked
+48,Learnova,24,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,source-transcribed,manually-checked
+49,Learnova,24,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,needs-review,manually-checked
+50,Learnova,24,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,needs-review,manually-checked
+51,Learnova,25,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer B.,source-transcribed,manually-checked
+52,Learnova,25,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,source-transcribed,manually-checked
+53,Learnova,25,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,needs-review,manually-checked
+54,Learnova,26,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer B.,needs-review,manually-checked
+55,Learnova,26,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer D.,needs-review,manually-checked
+56,Learnova,26,RECONSTRUCTED_AND_RECALCULATED,Fixed lost or malformed notation; reviewed source answer A.,needs-review,manually-checked
+3,Learnova,10,PUBLISHER_NUMERICAL_DISCREPANCY,Exact area 44.73 m² does not match listed B = 44.43 m²; excluded from grading.,source-transcribed,needs-review
+68,Learnova,30,SOURCE_AMBIGUITY,Question does not distinguish population versus sample standard deviation; excluded from grading.,source-transcribed,needs-review
+620,Learnova,228,SOLUTION_TOPIC_MISMATCH,Question asks about urban runoff mitigation; extracted explanation discusses floodplain zoning; excluded from grading.,source-transcribed,needs-review
+65,Learnova,29,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+69,Learnova,30,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Possible duplicated answer options,source-transcribed,needs-review
+73,Learnova,31,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+79,Learnova,33,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options; Isolated math token suggests lost layout,source-transcribed,needs-review
+176,Learnova,63,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+194,Learnova,72,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+195,Learnova,72,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+196,Learnova,73,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+197,Learnova,74,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+199,Learnova,75,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+202,Learnova,76,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+213,Learnova,80,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+227,Learnova,89,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+228,Learnova,89,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+229,Learnova,90,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+231,Learnova,90,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+240,Learnova,96,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+244,Learnova,99,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+247,Learnova,101,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+256,Learnova,105,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+264,Learnova,108,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+268,Learnova,109,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+278,Learnova,113,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+279,Learnova,113,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+289,Learnova,117,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+292,Learnova,118,AUTOMATED_SAFETY_FLAG,Plain exponent may have lost superscript,source-transcribed,needs-review
+296,Learnova,119,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+340,Learnova,137,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+383,Learnova,152,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+387,Learnova,153,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+438,Learnova,172,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+439,Learnova,172,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+441,Learnova,173,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+442,Learnova,173,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+446,Learnova,175,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+449,Learnova,176,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+453,Learnova,177,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+467,Learnova,181,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+479,Learnova,185,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+491,Learnova,189,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+492,Learnova,189,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+583,Learnova,217,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+585,Learnova,218,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+586,Learnova,218,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+587,Learnova,218,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+589,Learnova,219,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+591,Learnova,219,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+593,Learnova,220,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+594,Learnova,220,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+602,Learnova,223,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+603,Learnova,223,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+604,Learnova,224,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+605,Learnova,224,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+608,Learnova,225,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+612,Learnova,226,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+613,Learnova,226,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+614,Learnova,226,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Suspicious separated mathematical digits; Isolated math token suggests lost layout,source-transcribed,needs-review
+616,Learnova,227,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+631,Learnova,231,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+632,Learnova,232,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+633,Learnova,232,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+640,Learnova,234,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+642,Learnova,235,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Plain exponent may have lost superscript,source-transcribed,needs-review
+643,Learnova,236,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+644,Learnova,236,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+645,Learnova,236,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+646,Learnova,236,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Plain exponent may have lost superscript,source-transcribed,needs-review
+648,Learnova,237,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Plain exponent may have lost superscript,source-transcribed,needs-review
+653,Learnova,239,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+667,Learnova,243,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+672,Learnova,244,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+674,Learnova,245,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+676,Learnova,246,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+679,Learnova,247,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+680,Learnova,247,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+684,Learnova,248,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+685,Learnova,248,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+686,Learnova,248,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Isolated math token suggests lost layout,source-transcribed,needs-review
+687,Learnova,249,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits; Possible duplicated answer options,source-transcribed,needs-review
+700,Learnova,257,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+704,Learnova,258,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+711,Learnova,260,AUTOMATED_SAFETY_FLAG,Other section heading found in answer choice,source-transcribed,needs-review
+712,Learnova,261,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Isolated math token suggests lost layout,source-transcribed,needs-review
+720,Learnova,264,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+730,Learnova,268,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+732,Learnova,268,AUTOMATED_SAFETY_FLAG,Other section heading found in answer choice,source-transcribed,needs-review
+741,Learnova,272,AUTOMATED_SAFETY_FLAG,Other section heading found in answer choice,source-transcribed,needs-review
+763,Learnova,284,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+817,Learnova,305,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+861,Learnova,320,AUTOMATED_SAFETY_FLAG,Suspicious separated mathematical digits,source-transcribed,needs-review
+875,Learnova,324,AUTOMATED_SAFETY_FLAG,Isolated math token suggests lost layout,source-transcribed,needs-review
+915,Learnova,337,AUTOMATED_SAFETY_FLAG,Possible lost fraction/exponent layout; Possible duplicated answer options; Isolated math token suggests lost layout,source-transcribed,needs-review
+1015,Learnova,369,AUTOMATED_SAFETY_FLAG,Possible duplicated answer options,source-transcribed,needs-review
+1039,Learnova,377,AUTOMATED_SAFETY_FLAG,Figure or diagram referenced but not recreated,source-transcribed,needs-review
+1042,Learnova,378,AUTOMATED_SAFETY_FLAG,Figure or diagram referenced but not recreated,source-transcribed,needs-review
+1045,Learnova,379,AUTOMATED_SAFETY_FLAG,Figure or diagram referenced but not recreated,source-transcribed,needs-review
+1047,Learnova,379,AUTOMATED_SAFETY_FLAG,Figure or diagram referenced but not recreated,source-transcribed,needs-review
+1051,Learnova,381,AUTOMATED_SAFETY_FLAG,Figure or diagram referenced but not recreated,source-transcribed,needs-review
+18,Learnova,15,RETAINED_EARLIER_CORRECTION,Previously reviewed source-answer discrepancy retained.,manually-checked,manually-checked
+276,Learnova,112,RETAINED_EARLIER_CORRECTION,Previously reviewed source-answer discrepancy retained.,manually-checked,manually-checked
+277,Learnova,113,RETAINED_EARLIER_CORRECTION,Previously reviewed source-answer discrepancy retained.,manually-checked,manually-checked
